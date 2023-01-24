@@ -1,0 +1,30 @@
+:root {
+  margin: 0 auto;
+  padding: 0;
+  background-color: #1a1a1a;
+  color: whitesmoke;
+  overflow-x: hidden;
+}
+#body {
+  width: fit-content;
+  margin: 0 auto;
+}
+#markup {
+  max-width: 80vw;
+  width: fit-content;
+  margin: 0 auto;
+}
+textarea {
+  width: 50vw;
+  height: 30vw;
+  background-color: #353535;
+  color: greenyellow
+}
+#preview {
+  max-width: 80vw;
+  width: fit-content;
+  margin: 1rem auto;
+  background-color: #afafaf;
+  color: black;
+  padding: 1rem 2rem;
+}
